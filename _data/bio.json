@@ -18,11 +18,11 @@
     { "name": "Writing" },
     { "name": "Music" },
     { "name": "Gaming" }
-  },
+  ],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript" ]
   },
     {
       "name": "Toolsets/OS",
@@ -36,10 +36,9 @@
       "studyType": "A.S.",
       "startDate": "2021-09-27",
       "endDate": "Present",
-      "courses": "ACT101, CSC272"
+      "courses": [ "ACT101, CSC272" 
       ]
-    }
-  ],
+    },
   "work": [
     {
       "company": "N/A",
