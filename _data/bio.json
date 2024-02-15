@@ -18,15 +18,18 @@
     { "name": "Writing" },
     { "name": "Music" },
     { "name": "Gaming" }
-  ],
+  ]
+},
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript"
+    ]
   },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"
+      ]
     }
   ],
   "education": [
@@ -36,9 +39,10 @@
       "studyType": "A.S.",
       "startDate": "2021-09-27",
       "endDate": "Present",
-      "courses": [ "ACT101, CSC272" 
+      "courses": "ACT101, CSC272"
       ]
-    },
+    }
+  ],
   "work": [
     {
       "company": "N/A",
@@ -49,11 +53,12 @@
       "summary": "",
       "highlights": ""
       ]
-    },
-  "Activities": [
+    }
+  ],
+  "volunteer": [
     {
       "organization": "The Humane Society",
-      "website": "N/A",
+      "website": "",
       "position": "Volunteer",
       "startDate": "2014-06-10",
       "endDate": "2015-08-15",
@@ -61,6 +66,7 @@
       "highlights": [
         "Feed, water, and bathe the animals in the care of the humane society.",
         "Clean and restock the general areas of the humane society, including cages."
+      ]
     }
   ],
   "awards": [
