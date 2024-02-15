@@ -5,7 +5,7 @@ image: img/HangMan.png
 title: "Hangman"
 #All dates must be YYYY-MM-DD format!
 date: 2024-02-14
-published: false
+published: true
 labels:
   - game
   - hangman
