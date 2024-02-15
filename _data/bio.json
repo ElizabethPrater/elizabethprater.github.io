@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Elizabeth Prater",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/elizabethprater.png",
+    "email": "eprate9725@my.sullivan.edu",
+    "phone": "859-553-0231",
+    "website": "https://elizabethprater.github.io",
+    "summary": "I am studying for a A.S. in Computer Science in the Department of Information and Computer Sciences at Sullivan University. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "40504", "city": "Lexington", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "elizabethprater", "url": "http://github.com/changeme" },
+      { "network": "facebook", "username": "", "url": "" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Technology" },
+    { "name": "Creating" },
+    { "name": "Writing" },
+    { "name": "Music" },
+    { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", ]
     },
     {
       "name": "Toolsets/OS",
