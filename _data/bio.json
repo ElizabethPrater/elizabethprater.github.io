@@ -9,10 +9,7 @@
     "summary": "I am studying for a A.S. in Computer Science in the Department of Information and Computer Sciences at Sullivan University. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "40504", "city": "Lexington", "countryCode": "USA", "region": "KY" },
     "profiles": [
-      { "network": "github", "username": "elizabethprater", "url": "http://github.com/elizabethprater" },
-      { "network": "facebook", "username": "", "url": "" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "elizabethprater", "url": "http://github.com/elizabethprater" }
     ]
   },
   "interests": [
