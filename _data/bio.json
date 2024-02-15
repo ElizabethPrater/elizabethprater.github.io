@@ -22,13 +22,13 @@
 },
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "keywords": [ "C", "C++", "C#", "Java", "Javascript"
     ]
   },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" 
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"
       ]
     }
   ],
