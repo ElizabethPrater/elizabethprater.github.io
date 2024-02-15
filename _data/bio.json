@@ -18,18 +18,15 @@
     { "name": "Writing" },
     { "name": "Music" },
     { "name": "Gaming" }
-  ]
-},
+  ],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript"
-    ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript"]
   },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"
-      ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"]
     }
   ],
   "education": [
@@ -55,7 +52,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
       "organization": "The Humane Society",
       "website": "",
