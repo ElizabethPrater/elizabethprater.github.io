@@ -14,9 +14,9 @@ summary: "I developed a simple word guessing game based on the well known HangMa
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Hangman (2).png" class="img-thumbnail" >
+  <img width="200px" src="../img/Hangman (2).png" class="img-thumbnail" >
+  <img width="200px" src="../img/Hangman (2).png" class="img-thumbnail" >
 </div>
 
 Hangman is a classic word-guessing game that has entertained players for generations. The game involves two players: the "word setter" and the "guesser." Here's how it works:
