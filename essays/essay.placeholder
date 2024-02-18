@@ -14,4 +14,26 @@ labels:
 
 *Reflection essay of project 1.*
 
+
+
+Reflection Paper
+
+February 4, 2024
+Elizabeth Prater
+Christopher Cunningham
+Principles of System Design
+CSC272
+
+
+
+ 
+At the beginning of this class, when asked to pick a topic for a project, I was intimidated and nervous. I don’t necessarily like having too many options. I wound up picking a Windows console application for my project because I have the most experience in those currently and the other options seemed a bit too out of reach for me right now, partially because lack of access to the proper software for developing them. Choosing what kind of application I would do was a little more difficult to determine. I definitely wanted it to be a game, since games are a big part of my life. When I chose Hangman for my project, It seemed like it had the most room for creative freedom while also not being too advanced. 
+During the initial design phase, I had to do a lot of brainstorming and refreshing my memory on the relationships between the functions of the application. I feel like this was the easiest and quickest part of the project. With the design of the application diagram, I had to research a lot more on how exactly to put that together.
+	During the second week, while building the base blocks of the application, the beginning part of the code, using system block, kept giving me errors because I had forgot to make a class for the application, which took me an embarrassing amount of time to realize. 
+	Week 3 was pretty enjoyable because that’s when I added a lot of the phrases for the game and added in the randomized feature for the responses to the user input.
+	In week 4, I was trying to work on clearing up and fixing the syntax errors caused by incorrect form in the part where the Hangman figure is supposed to be built.
+	This last week has been pretty stressful in the sense that I’m not sure if the final result of my project is good enough. I know many improvements can be made in the future, yet I honestly feel like I could’ve done better with the current resources that I have access to.
+Using what I have listed in my final project paper under future improvements, I will be continuing the development and design of the application that I made. I think I could turn it into something great with enough practice. Overall, this project was enjoyable and helpful in not only refreshing the previous knowledge on the subject, but also learning a few new things, like how to randomize things in an application. 
+
+
 "C:\Users\empra\OneDrive\Desktop\CSC272\Reflection Paper.docx"
