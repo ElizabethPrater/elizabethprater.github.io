@@ -10,6 +10,7 @@ labels:
   - Reflection
 ---
 
+image: img/HangMan.png
 <img width="200px" class="rounded float-start pe-4" src="img/essay thumbnail.jpg">
 <div class="text-center p-4">
   <img width="200px" src="img/essay thumbnail.jpg" >
