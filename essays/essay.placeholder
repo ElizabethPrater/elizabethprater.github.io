@@ -1,16 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Placeholder"
+title: "Reflection Paper"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-15
 published: true
 labels:
-  - placeholder
+  - essay
+  - Reflection
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Placeholder example quote.*
+*Reflection essay of project 1.*
 
-essay body
+"C:\Users\empra\OneDrive\Desktop\CSC272\Reflection Paper.docx"
