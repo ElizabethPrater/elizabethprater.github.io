@@ -22,13 +22,11 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript"
-    ]
-  },
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript"]
+    },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"
-      ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "WindowsOS", "AndroidOS"]
     }
   ],
   "education": [
@@ -39,7 +37,6 @@
       "startDate": "2021-09-27",
       "endDate": "Present",
       "courses": "ACT101, CSC272"
-      ]
     }
   ],
   "work": [
@@ -51,7 +48,6 @@
       "endDate": "",
       "summary": "",
       "highlights": ""
-      ]
     }
   ],
   "volunteer": [
